@@ -204,6 +204,9 @@
  }
 
  @media screen and (min-width: 1024px) {
+    .footer{
+       margin-top:5rem; 
+    }
     .footerCard{
         padding: 3rem 1rem;
     }
